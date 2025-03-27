@@ -28,8 +28,8 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ꜱᴘɪᴅᴇʏ �
 <details><summary><b> - ғᴇᴀᴛᴜʀᴇs :</b></summary>
   
 ## features
-- [x] 𝑺𝒉𝒐𝒓𝒕𝒏𝒆𝒓 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝒊𝒏 𝑺𝒕𝒓𝒆𝒂𝒎 𝒂𝒏𝒅 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒇𝒆𝒂𝒕𝒖𝒓𝒆
-- [x] 𝑮𝒐𝒐𝒅 𝑴𝒐𝒓𝒏𝒊𝒏𝒈, 𝑨𝒇𝒕𝒆𝒓𝒏𝒐𝒐𝒏, 𝑬𝒗𝒆𝒏𝒊𝒏𝒈, 𝑵𝒊𝒈𝒉𝒕 𝒘𝒊𝒔𝒉𝒆𝒔 
+- [x] 
+- [x] 
 - [x] 𝑴𝒖𝒍𝒕𝒊 𝑭𝒔𝒖𝒃 𝑺𝒖𝒑𝒑𝒐𝒓𝒕
 - [x] 𝑹𝒆𝒒𝒖𝒆𝒔𝒕 𝒕𝒐 𝒋𝒐𝒊𝒏 𝒊𝒏 𝑭𝒔𝒖𝒃
 - [x] 
@@ -56,14 +56,14 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ꜱᴘɪᴅᴇʏ �
 - [x] 
 - [x] 𝑈𝑠𝑒𝑟 𝐵𝑟𝑜𝑎𝑑𝑐𝑎𝑠𝑡
 - [x] 
-- [x] 𝐼𝑛𝑑𝑒𝑥
-- [x] 𝐼𝑀𝐷𝐵 𝑠𝑒𝑎𝑟𝑐ℎ
-- [x] 𝐼𝑛𝑙𝑖𝑛𝑒 𝑆𝑒𝑎𝑟𝑐ℎ
+- [x] 
+- [x] 
+- [x] 
 - [x] 𝑅𝑎𝑛𝑑𝑜𝑚 𝑝𝑖𝑐𝑠
-- [x] 𝑖𝑑𝑠 𝑎𝑛𝑑 𝑈𝑠𝑒𝑟 𝑖𝑛𝑓𝑜 
+- [x] 𝑈𝑠𝑒𝑟 𝑖𝑛𝑓𝑜 
 - [x] 𝑆𝑡𝑎𝑡𝑠
 - [x] 𝑈𝑠𝑒𝑟𝑠
-- [x] 𝐶ℎ𝑎𝑡𝑠
+- [x] 
 - [x] 
 - [x] 
 - [x] 
@@ -76,10 +76,9 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ꜱᴘɪᴅᴇʏ �
 - [x] 
 - [x] 
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
+</details>
 
-and more....
-
-## ᴀᴅᴍɪɴ ᴀɴᴅ ᴜsᴇʀs ᴄᴏᴍᴍᴀɴᴅs
+<details><summary><b>ᴀᴅᴍɪɴ ᴀɴᴅ ᴜsᴇʀs ᴄᴏᴍᴍᴀɴᴅs</b></summary>
 - [x] start - ꜱᴛᴀʀᴛ ᴍᴇ...
 - [x] connect - ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪɴ ᴘᴍ...
 - [x] shortlink - ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ꜱʜᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ...
@@ -126,7 +125,7 @@ and more....
 - [x] BOT_TOKEN - get it from telegram app
 - [x] ADMINS - for 2 or more '12345678 89674523' add space between ids
 - [x] LOG_CHANNEL - add a private channel id
-- [x] CHANNELS - add your database channel id ,if u will share your file here the bot will add the file in database autometiccaly
+- [x] CHANNEL_IDS - add your database channel id ,if u will share your file here the bot will add the file in database autometiccaly
 - [x] DATABASE_URI - if you dont know how to get it, read this documentation from scratch
 ```
 - [x] ᴍᴏʀᴇ ᴄᴏɴғɪɢs [ᴄʜᴀɴɢᴇ ʜᴇʀᴇ..](https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT/blob/main/configs.py)
@@ -138,6 +137,33 @@ and more....
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
+- [![Deploy to bot hosting](https://envs.sh/pH7.jpg)(https://app.koyeb.com/deploy?type=git&repository=github.com/spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT&branch=main&name=main )
+
+- git clone https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT.git
+
+<p align="center">
+      <img src="https://envs.sh/psr.jpg">
+</p>
+
+
+</details>
+━━━━━━━━━━━━━━━━━━━━
+
+<details>
+<summary><h3>
+- <b>  </b>
+</h3></summary>
+
+<details><summary>Deploy To Koyeb</summary>
+<br>
+<b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
+<br>
+<br>
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT&branch=main&name=main )
+</details>
+
+
 - Get your [Necessary Variables](https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT/blob/main/configs.py)
 - git clone https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT.git
 - # Install Packages
@@ -146,12 +172,12 @@ and more....
 - python3 bot.py
 
 <p align="center">
-      <img src="https://graph.org/file/6126c635b91aa6bd8a4b3.jpg">
+      <img src="https://envs.sh/psr.jpg">
 </p>
 
 
 </details>
-━━━━━━━━━━━━━━━━━━━━
+
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
