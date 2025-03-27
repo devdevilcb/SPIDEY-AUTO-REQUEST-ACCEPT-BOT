@@ -26,9 +26,8 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ꜱᴘɪᴅᴇʏ �
 </h3>
 </summary>
 
-<details>
 - <b> [ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ]</b>
-
+<details>
 - ━━━━━━━━━━━━━━━━━━━━
 
 - Get your [Necessary Variables](https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT/blob/main/configs.py)
