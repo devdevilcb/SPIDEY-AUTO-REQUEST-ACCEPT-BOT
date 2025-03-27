@@ -42,9 +42,12 @@ python3 bot.py
 </details>
 
 
-<details><summary><b> - ғᴇᴀᴛᴜʀᴇs :</b></summary>
+<details><summary><b>ғᴇᴀᴛᴜʀᴇs </b></summary>
 
 ## features
+we will update this fetures section as well as soon possible 
+
+
 - [x] 
 - [x] 
 - [x] 𝑴𝒖𝒍𝒕𝒊 𝑭𝒔𝒖𝒃 𝑺𝒖𝒑𝒑𝒐𝒓𝒕
