@@ -20,22 +20,26 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ꜱᴘɪᴅᴇʏ �
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Spideyofficial777/l"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-
-<h3 align="center">
+<summary>
+<h3 align="center"><h3>
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs/ʟᴏᴄᴀʟ 」─
 </h3>
+</summary>
 
 <details>
-<summary><h3>
-- <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
-</h3></summary>
+- <b> [ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ]</b>
 
-- [![Deploy to bot hosting](https://envs.sh/pH7.jpg)(https://app.koyeb.com/deploy?type=git&repository=github.com/spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT&branch=main&name=main )
+- ━━━━━━━━━━━━━━━━━━━━
 
+- Get your [Necessary Variables](https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT/blob/main/configs.py)
 - git clone https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT.git
+- # Install Packages
+- pip3 install -U -r requirements.txt
+- Edit info.py with variables as given below then run bot
+- python3 bot.py
 
 <p align="center">
-      <img src="https://envs.sh/psr.jpg">
+      <img src="">
 </p>
 </details>
 
@@ -48,6 +52,8 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ꜱᴘɪᴅᴇʏ �
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT&branch=main&name=main )
 </details>
+
+
 <details><summary><b> - ғᴇᴀᴛᴜʀᴇs :</b></summary>
 
 ## features
@@ -119,22 +125,6 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ꜱᴘɪᴅᴇʏ �
 - [x] ᴍᴏʀᴇ ᴄᴏɴғɪɢs [ᴄʜᴀɴɢᴇ ʜᴇʀᴇ..](https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT/blob/main/configs.py)
 </details>
 
-
-━━━━━━━━━━━━━━━━━━━━
-
-- Get your [Necessary Variables](https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT/blob/main/configs.py)
-- git clone https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT.git
-- # Install Packages
-- pip3 install -U -r requirements.txt
-- Edit info.py with variables as given below then run bot
-- python3 bot.py
-
-<p align="center">
-      <img src="https://envs.sh/psr.jpg">
-</p>
-
-
-</details>
 
 
 <h3 align="center">
