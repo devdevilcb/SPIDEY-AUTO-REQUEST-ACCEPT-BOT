@@ -20,10 +20,10 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ꜱᴘɪᴅᴇʏ �
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Spideyofficial777/l"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<details><summary>>[ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ]</summary>
+<details><summary><b><h3>[ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ]</h3></b></summary>
 <p>
 <pre>
-git clone https://github.com/Jisshubot/Jisshu-filter-bot
+git clone https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT.git
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -31,8 +31,6 @@ python3 bot.py
 </pre>
 </p>
 </details>
-
-
 
 <details><summary><h3>[ᴅᴇᴘʟᴏʏ ᴛᴏ ᴋᴏʏᴇʙ]</h3></summary>
 <br>
