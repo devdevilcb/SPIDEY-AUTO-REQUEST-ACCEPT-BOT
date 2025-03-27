@@ -1,3 +1,7 @@
+# Don't Remove Credit @spideyofficial777
+# Subscribe YouTube Channel For Amazing Bot @spidey_official_777
+# Ask Doubt on telegram @hacker_x_official_777
+
 from pymongo import MongoClient
 from configs import Spidey
 
@@ -48,4 +52,6 @@ def already_db(user_id):
     """Checks if the user is already in the MongoDB database"""
     return users.find_one({"user_id": str(user_id)}) is not None
         
-        
+# Don't Remove Credit @spideyofficial777
+# Subscribe YouTube Channel For Amazing Bot @spidey_official_777
+# Ask Doubt on telegram @hacker_x_official_777     
