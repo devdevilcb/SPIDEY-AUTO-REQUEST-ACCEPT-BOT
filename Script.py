@@ -43,7 +43,11 @@ class script(object):
 © 𝟸𝟶𝟸𝟻 | <a href=https://t.me/SPIDEYOFFICIAL777'>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ</a> , ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
   
   <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Hacker_x_official_777'>ʜᴀᴄᴋᴇʀ_x_ᴏꜰꜰɪᴄɪᴀʟ_777</a></blockquote></b>"""
-    
+     
+# Don't Remove Credit @spideyofficial777
+# Subscribe YouTube Channel For Amazing Bot @spidey_official_777
+# Ask Doubt on telegram @hacker_x_official_777
+   
     ALERT_MSG = """ ⚡️ ʟɪᴠᴇ sʏsᴛᴇᴍ sᴛᴀᴛᴜs ⚡️\n\n❂ ʀᴀᴍ ●●●●●●●◌◌◌\n✇ ᴄᴘᴜ ●●●●●●●◌◌◌\n✪ ᴅᴀᴛᴀ ᴛʀᴀꜰɪᴄs ●●●●◌◌◌◌◌◌ 🛰\n\nᴠ𝟷.𝟶 [sᴛᴀʙʟᴇ] """
     
     ABOUT_TXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://telegram.me/Spidey_gaming_official_bot'>sᴘɪᴅᴇʏ_ɢᴀᴍɪɴɢ_ᴏғғɪᴄɪᴀʟ_ʙᴏᴛ</a>\n‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://telegram.me/Hacker_x_official_777'>ʜᴀᴄᴋᴇʀ_x_ᴏꜰꜰɪᴄɪᴀʟ_777</a>\n‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ𝟷.𝟶 [sᴛᴀʙʟᴇ]</b></blockquote>"""    

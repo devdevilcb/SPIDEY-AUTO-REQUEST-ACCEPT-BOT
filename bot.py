@@ -1,3 +1,7 @@
+# Don't Remove Credit @spideyofficial777
+# Subscribe YouTube Channel For Amazing Bot @spidey_official_777
+# Ask Doubt on telegram @hacker_x_official_777
+
 import os
 import asyncio
 from aiofiles import os
@@ -30,14 +34,15 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from pymongo.errors import PyMongoError
 from configs import Spidey, temp
 
-# Configuration
-API_ID = "28519661"
-API_HASH = "d47c74c8a596fd3048955b322304109d"
-BOT_TOKEN = "7236731343:AAHzJYfnwvBQDekYq8sSKY5cXS1GgJTQsgk"
+
+# Configuration do not remove otherwise bot will be crashed
+API_ID = ""
+API_HASH = ""
+BOT_TOKEN = ""
 CHANNEL_IDS = [-1001959922658, -1002433552221, -1002470391435]
 LOG_CHANNEL = -1002294764885
 ADMINS = [5518489725]
-MONGO_URI = "mongodb+srv://spideyofficial777:6FwYFNcgrAPL8nqq@spidey777.pykfj.mongodb.net/?retryWrites=true&w=majority&appName=SPIDEY777"
+MONGO_URI = ""
 
 
 # Image URLs
@@ -597,3 +602,8 @@ if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     print(script.LOGO_MSG)
     app.run()
+
+
+# Don't Remove Credit @spideyofficial777
+# Subscribe YouTube Channel For Amazing Bot @spidey_official_777
+# Ask Doubt on telegram @hacker_x_official_777
