@@ -24,9 +24,25 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ꜱᴘɪᴅᴇʏ �
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs/ʟᴏᴄᴀʟ 」─
 </h3>
-<details><summary>Deploy To Koyeb</summary>
+
+<details>
+<summary><h3>
+- <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
+</h3></summary>
+
+- [![Deploy to bot hosting](https://envs.sh/pH7.jpg)(https://app.koyeb.com/deploy?type=git&repository=github.com/spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT&branch=main&name=main )
+
+- git clone https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT.git
+
+<p align="center">
+      <img src="https://envs.sh/psr.jpg">
+</p>
+</details>
+
+
+<details><summary><h3>[ᴅᴇᴘʟᴏʏ ᴛᴏ ᴋᴏʏᴇʙ]</h3></summary>
 <br>
-<b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
+<b>ᴛʜᴇ ғᴀꜱᴛᴇꜱᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛʜᴇ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ɪꜱ ᴛᴏ ᴄʟɪᴄᴋ ᴛʜᴇ ᴅᴇᴘʟᴏʏ ᴛᴏ ᴋᴏʏᴇʙ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ.</b>
 <br>
 <br>
 
@@ -104,21 +120,6 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ꜱᴘɪᴅᴇʏ �
 </details>
 
 
-<details>
-<summary><h3>
-- <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
-</h3></summary>
-
-- [![Deploy to bot hosting](https://envs.sh/pH7.jpg)(https://app.koyeb.com/deploy?type=git&repository=github.com/spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT&branch=main&name=main )
-
-- git clone https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT.git
-
-<p align="center">
-      <img src="https://envs.sh/psr.jpg">
-</p>
-
-
-</details>
 ━━━━━━━━━━━━━━━━━━━━
 
 - Get your [Necessary Variables](https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT/blob/main/configs.py)
