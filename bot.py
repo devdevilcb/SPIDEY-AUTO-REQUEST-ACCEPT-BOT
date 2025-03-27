@@ -445,10 +445,13 @@ async def on_callback_query(_, callback_query: CallbackQuery):
 
 
         await callback_query.message.edit_text(
-            text=script.SOURCE_TXT,
+            text=script.SOURCE_TXT.format(
+                callback_query.from_user.mention if callback_query.from_user else "User"
+            ),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML,
-    )
+            )
+
 
 
     elif callback_query.data == "spidey":

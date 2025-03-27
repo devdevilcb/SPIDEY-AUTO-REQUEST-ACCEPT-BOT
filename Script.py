@@ -1,3 +1,7 @@
+# Don't Remove Credit @spideyofficial777
+# Subscribe YouTube Channel For Amazing Bot @spidey_official_777
+# Ask Doubt on telegram @hacker_x_official_777
+
 class script(object):
 
     START_MSG = """<b>🦊 Hᴇʟʟᴏ {}!\n\nI'ᴍ ᴀɴ ᴀᴜᴛᴏ-ᴀᴘᴘʀᴏᴠᴇ [ᴀᴅᴍɪɴ](https://t.me/hacker_x_official_777) [Jᴏɪɴ Rᴇǫᴜᴇsᴛs](https://t.me/telegram/153) ʙᴏᴛ.\nI ᴄᴀɴ ᴀᴘᴘʀᴏᴠᴇ ᴜsᴇʀs ɪɴ Gʀᴏᴜᴘs/Cʜᴀᴛs. Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ᴀɴᴅ [ᴘʀᴏᴍᴏᴛᴇ ᴍᴇ ᴛᴏ ᴀᴅᴍɪɴ]()\n\n__ᴘᴏᴡᴇʀᴇᴅ ʙʏ: [@Hᴀᴄᴋᴇʀ_x_ᴏғғɪᴄɪᴀʟ_𝟽𝟽𝟽](https://t.me/hacker_x_official_777)__</b>"""
@@ -22,11 +26,11 @@ class script(object):
     
     SOURCE_TXT = """
 
-<b>ʜᴇʏ {callback_query.from_user.mention},
+<b>ʜᴇʏ {},
 
 ᴛʜɪs ɪs ꜱᴘɪᴅᴇʏ ,
 
-ᴀɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴀɪ ᴀɴᴅ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴍᴏᴅᴜʟᴇs ʙᴏᴛ.
+ᴀɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴜᴛᴏ ʀᴇǫᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ʙᴏᴛ ᴡɪᴛʜ ᴀɪ ᴀɴᴅ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴍᴏᴅᴜʟᴇs ʙᴏᴛ.
 
 ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ <a href='https://github.com/pyrogram/pyrogram'>ᴩʏʀᴏɢʀᴀᴍ</a> & <a href='https://github.com/python-telegram-bot/python-telegrbot'>ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ</a>  
 
@@ -36,7 +40,7 @@ class script(object):
 
 ꜱᴘɪᴅᴇʏ  ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ <a href='https://github.com/Spideyofficial777/Spidey-MtLisance/blob/main/LICENSE'>ᴍɪᴛ ʟɪᴄᴇɴsᴇ</a> .
 
-© 𝟸𝟶𝟸𝟻 | <a href=https://t.me/SPIDEYOFFICIAL777''>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ</a> , ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
+© 𝟸𝟶𝟸𝟻 | <a href=https://t.me/SPIDEYOFFICIAL777'>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ</a> , ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
   
   <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Hacker_x_official_777'>ʜᴀᴄᴋᴇʀ_x_ᴏꜰꜰɪᴄɪᴀʟ_777</a></blockquote></b>"""
     
@@ -70,4 +74,8 @@ Cʟɪᴄᴋ Hᴇʀᴇ
 
 
     GSTART_TXT = """<b>ʜᴇʏ {},\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ʀᴇǫᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Hacker_x_official_777'>ꜱᴘɪᴅᴇʏ</a></b>"""
-    
+
+
+# Don't Remove Credit @spideyofficial777
+# Subscribe YouTube Channel For Amazing Bot @spidey_official_777
+# Ask Doubt on telegram @hacker_x_official_777      
